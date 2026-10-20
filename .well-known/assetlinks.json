@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mhammadk624_prog.twa",
+        "sha256_cert_fingerprints": ["58:C0:78:72:67:48:D7:0A:F3:E7:49:8C:3B:B9:D7:8F:BE:D0:4D:72:1A:14:13:7A:FC:A3:C7:39:64:B7:A4:10"]
+      }
+    }]
