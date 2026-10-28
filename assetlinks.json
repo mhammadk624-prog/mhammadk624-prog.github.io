@@ -1,8 +1,18 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mhammadk624_prog.email",
-        "sha256_cert_fingerprints": ["D3:C4:A3:5E:7A:A2:14:70:F5:66:BE:9F:ED:30:F7:38:29:1D:52:B7:38:5B:50:36:37:F1:73:A2:39:0E:EA:FD"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mhammadk624_prog.email",
+      "sha256_cert_fingerprints": ["D3:C4:A3:5E:7A:A2:14:70:F5:66:BE:9F:ED:30:F7:38:29:1D:52:B7:38:5B:50:36:37:F1:73:A2:39:0E:EA:FD"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mhammadk624_prog.zombie",
+      "sha256_cert_fingerprints": ["26:B0:A0:5D:EA:92:21:6C:1E:73:0F:D7:6C:4C:AE:78:C9:80:58:1C:6A:4C:BE:E1:55:21:98:51:B4:D7:AD:A3"]
+    }
+  }
+]
